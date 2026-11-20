@@ -1,6 +1,6 @@
 # Kontenlaris Skills — the complete pack
 
-All 17 public agent skills from Kontenlaris Studio in one repository, in the standard `skills/<name>/SKILL.md` layout.
+All 18 public agent skills from Kontenlaris Studio in one repository, in the standard `skills/<name>/SKILL.md` layout.
 
 ```bash
 npx skills add kontenlaris-studio/kontenlaris-skills
@@ -25,6 +25,7 @@ npx skills add kontenlaris-studio/kontenlaris-skills
 
 **Marketing:**
 - **buyer-panel** — five-persona simulated buyer panel that quotes your page back at you
+- **launch-autopilot** — one product → a complete Product Hunt / DevHunt / Show HN launch pack
 
 **Research:**
 - **trend-scout** — last-30-days grounded research (HN + GitHub + News, every claim dated & sourced)
