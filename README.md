@@ -1,6 +1,6 @@
 # Kontenlaris Skills — the complete pack
 
-All 15 public agent skills from Kontenlaris Studio in one repository, in the standard `skills/<name>/SKILL.md` layout.
+All 16 public agent skills from Kontenlaris Studio in one repository, in the standard `skills/<name>/SKILL.md` layout.
 
 ```bash
 npx skills add kontenlaris-studio/kontenlaris-skills
@@ -18,6 +18,7 @@ npx skills add kontenlaris-studio/kontenlaris-skills
 
 **Video:**
 - **talking-head-kit** — script + photo + voice → vertical talking-head videos with timed subtitles
+- **story-to-shorts** — one topic → a filmable 45–60s Shorts script pack (hook framework, timed scenes)
 
 **Marketing:**
 - **buyer-panel** — five-persona simulated buyer panel that quotes your page back at you
