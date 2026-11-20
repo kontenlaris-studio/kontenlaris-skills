@@ -1,6 +1,6 @@
 # Kontenlaris Skills — the complete pack
 
-All 12 public agent skills from Kontenlaris Studio in one repository, in the standard `skills/<name>/SKILL.md` layout.
+All 13 public agent skills from Kontenlaris Studio in one repository, in the standard `skills/<name>/SKILL.md` layout.
 
 ```bash
 npx skills add kontenlaris-studio/kontenlaris-skills
@@ -15,6 +15,9 @@ npx skills add kontenlaris-studio/kontenlaris-skills
 - **git-forge** — building a real git forge (dev score 934, also on Glama as an MCP server)
 - **gta6-twitch-forecast** — launch viewership forecasting (practice pinball 0.1656 vs 0.3871 baseline)
 - **token-radar** — pre-token protocol screening over DefiLlama data
+
+**Research:**
+- **trend-scout** — last-30-days grounded research (HN + GitHub + News, every claim dated & sourced)
 
 **Business tools:**
 - **invoice-generator** — the InvoiceKit system: invoices that look human-made
