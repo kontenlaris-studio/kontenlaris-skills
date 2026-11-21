@@ -1,6 +1,6 @@
 # Kontenlaris Skills — the complete pack
 
-All 20 public agent skills from Kontenlaris Studio in one repository, in the standard `skills/<name>/SKILL.md` layout.
+All 21 public agent skills from Kontenlaris Studio in one repository, in the standard `skills/<name>/SKILL.md` layout.
 
 ```bash
 npx skills add kontenlaris-studio/kontenlaris-skills
@@ -33,6 +33,7 @@ npx skills add kontenlaris-studio/kontenlaris-skills
 - **trend-scout** — last-30-days grounded research (HN + GitHub + News, every claim dated & sourced)
 
 **Business tools:**
+- **ai-receptionist** — a deterministic receptionist core: FAQ, hours and prices from the business's own data, slot-safe booking, callback capture, owner escalation
 - **invoice-generator** — the InvoiceKit system: invoices that look human-made
 - **telegram-summarizer-bot** — the RingkasBot playbook: monetized Telegram summarizer
 
