@@ -1,6 +1,6 @@
 # Kontenlaris Skills — the complete pack
 
-All 19 public agent skills from Kontenlaris Studio in one repository, in the standard `skills/<name>/SKILL.md` layout.
+All 20 public agent skills from Kontenlaris Studio in one repository, in the standard `skills/<name>/SKILL.md` layout.
 
 ```bash
 npx skills add kontenlaris-studio/kontenlaris-skills
@@ -25,6 +25,7 @@ npx skills add kontenlaris-studio/kontenlaris-skills
 - **ai-council** — a five-seat adversarial council that argues a decision and votes, conditions attached
 
 **Marketing:**
+- **ugc-ad-generator** — one product → 10 guarded UGC ad variants (scripts, shot lists, captions) with a banned-claim compliance checker
 - **buyer-panel** — five-persona simulated buyer panel that quotes your page back at you
 - **launch-autopilot** — one product → a complete Product Hunt / DevHunt / Show HN launch pack
 
